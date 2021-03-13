@@ -1,16 +1,13 @@
-﻿// WolfgangEditor.cpp : Defines the entry point for the application.
-//
+﻿/* 
+WolfgangEditor.cpp : Defines the entry point for the application.
+*/
 
-#include "Main.h"
+#include "Common.h"
+#include "Log.h"
 
-using namespace std;
-
-int main(int argc, char* argv[])
+int main()
 {
-	if (argc > 1)
-	{
-		return 1;
-	}
-	cout << "Hello CMake." << endl;
+	LogInit();
+	Log("Initiating WolfgangDAW...");
 	return 0;
 }
