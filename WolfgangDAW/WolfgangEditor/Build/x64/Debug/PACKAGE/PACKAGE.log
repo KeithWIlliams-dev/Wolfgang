@@ -1,0 +1,15 @@
+﻿  CPack: Create package using 7Z
+  CPack: Install projects
+  CPack: - Install project: WolfgangDAW [Debug]
+  CPack: Create package
+  CPack: - package: D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/WolfgangDAW-0.1.1-win64.7z generated.
+  CPack: Create package using NSIS
+  CPack: Install projects
+  CPack: - Install project: WolfgangDAW [Debug]
+  CPack: Create package
+  CPack: - package: D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/WolfgangDAW-0.1.1-win64.exe generated.
+  CPack: Create package using ZIP
+  CPack: Install projects
+  CPack: - Install project: WolfgangDAW [Debug]
+  CPack: Create package
+  CPack: - package: D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/WolfgangDAW-0.1.1-win64.zip generated.

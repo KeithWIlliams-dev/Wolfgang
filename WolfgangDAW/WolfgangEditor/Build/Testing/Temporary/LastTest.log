@@ -1,0 +1,19 @@
+Start testing: Mar 13 13:31 Central Standard Time
+----------------------------------------------------------
+1/1 Testing: test1
+1/1 Test: test1
+Command: "D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/Debug/Wolfgang.exe"
+Directory: D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build
+"test1" start time: Mar 13 13:31 Central Standard Time
+Output:
+----------------------------------------------------------
+Hello CMake.
+<end of output>
+Test time =   0.64 sec
+----------------------------------------------------------
+Test Passed.
+"test1" end time: Mar 13 13:31 Central Standard Time
+"test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 13 13:31 Central Standard Time

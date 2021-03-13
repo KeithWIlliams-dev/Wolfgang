@@ -1,0 +1,10 @@
+^D:\PROJECTWOLFGANG\WOLFGANGDAW\WOLFGANGEDITOR\BUILD\CMAKEFILES\0E473498FA90EA159F31E7CED70C135B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ProjectWolfgang/WolfgangDAW/WolfgangEditor -BD:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/WolfgangDAW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

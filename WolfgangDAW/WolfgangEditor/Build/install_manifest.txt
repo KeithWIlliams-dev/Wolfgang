@@ -1,0 +1,2 @@
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/_CPack_Packages/win64/ZIP/WolfgangDAW-0.1.1-win64/bin/Wolfgang.exe
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/_CPack_Packages/win64/ZIP/WolfgangDAW-0.1.1-win64/src/Main.cpp

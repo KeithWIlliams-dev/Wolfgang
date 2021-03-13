@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\ProjectWolfgang\WolfgangDAW\WolfgangEditor\Build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\ProjectWolfgang\WolfgangDAW\WolfgangEditor\Build\Debug\Wolfgang.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\ProjectWolfgang\WolfgangDAW\WolfgangEditor\Build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\ProjectWolfgang\WolfgangDAW\WolfgangEditor\Build\x64\Debug\PACKAGE</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

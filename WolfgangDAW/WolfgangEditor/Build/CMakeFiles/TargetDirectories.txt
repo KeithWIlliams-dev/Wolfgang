@@ -1,0 +1,10 @@
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/Wolfgang.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/NightlyMemoryCheck.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/Experimental.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/Continuous.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/Nightly.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/PACKAGE.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/INSTALL.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/RUN_TESTS.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/ALL_BUILD.dir
+D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/CMakeFiles/ZERO_CHECK.dir
