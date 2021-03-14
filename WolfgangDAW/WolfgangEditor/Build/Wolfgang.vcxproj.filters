@@ -21,5 +21,6 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="Include\Log.h" />
+    <ClInclude Include="Include\Main.h" />
   </ItemGroup>
 </Project>

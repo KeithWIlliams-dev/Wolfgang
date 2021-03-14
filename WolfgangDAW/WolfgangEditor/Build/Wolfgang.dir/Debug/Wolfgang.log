@@ -1,2 +1,4 @@
 ﻿  Main.cpp
+D:\ProjectWolfgang\WolfgangDAW\WolfgangEditor\Main.cpp(26,9): warning C4102: 'Default': unreferenced label
+  LINK : D:\ProjectWolfgang\WolfgangDAW\WolfgangEditor\Build\Debug\Wolfgang.exe not found or not built by the last incremental link; performing full link
   Wolfgang.vcxproj -> D:\ProjectWolfgang\WolfgangDAW\WolfgangEditor\Build\Debug\Wolfgang.exe

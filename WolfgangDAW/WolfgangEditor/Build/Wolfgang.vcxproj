@@ -131,7 +131,7 @@
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImportLibrary>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/Debug/Wolfgang.lib</ImportLibrary>
       <ProgramDataBaseFile>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/Debug/Wolfgang.pdb</ProgramDataBaseFile>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
     </Link>
     <ProjectReference>
       <LinkLibraryDependencies>false</LinkLibraryDependencies>
@@ -172,7 +172,7 @@
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImportLibrary>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/Release/Wolfgang.lib</ImportLibrary>
       <ProgramDataBaseFile>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/Release/Wolfgang.pdb</ProgramDataBaseFile>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
     </Link>
     <ProjectReference>
       <LinkLibraryDependencies>false</LinkLibraryDependencies>
@@ -213,7 +213,7 @@
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImportLibrary>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/MinSizeRel/Wolfgang.lib</ImportLibrary>
       <ProgramDataBaseFile>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/MinSizeRel/Wolfgang.pdb</ProgramDataBaseFile>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
     </Link>
     <ProjectReference>
       <LinkLibraryDependencies>false</LinkLibraryDependencies>
@@ -253,7 +253,7 @@
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImportLibrary>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/RelWithDebInfo/Wolfgang.lib</ImportLibrary>
       <ProgramDataBaseFile>D:/ProjectWolfgang/WolfgangDAW/WolfgangEditor/Build/RelWithDebInfo/Wolfgang.pdb</ProgramDataBaseFile>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
     </Link>
     <ProjectReference>
       <LinkLibraryDependencies>false</LinkLibraryDependencies>
@@ -331,6 +331,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   <ItemGroup>
     <ClInclude Include="Common.h" />
     <ClInclude Include="Include\Log.h" />
+    <ClInclude Include="Include\Main.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
